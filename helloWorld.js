@@ -1,1 +1,2 @@
-console.log("Git is Awesome")
+let userInput = prompt("Please type a message to print");
+alert(userInput);
